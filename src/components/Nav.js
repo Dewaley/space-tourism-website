@@ -43,6 +43,7 @@ const Nav = () => {
           hideOutline={false}
           label="Show menu"
           easing="ease-in"
+          color="#FFFFFF"
         />
       </div>
     </div>

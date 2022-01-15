@@ -3,12 +3,12 @@ import React from "react";
 const Home = () => {
   return (
     <div class="flex flex-col justify-center items-center mt-20 mb-10 md:my-28 md:block">
-      <div class="text-white md:mx-24">
+      <div class="text-white md:mx-20">
         <h3 class="text-lg md:text-2xl uppercase">So, you want to travel to</h3>
         <div class="flex md:flex-row flex-col justify-center items-center md:justify-between">
           <div>
             <h1 class="text-8xl mb-3 tracking-wider">SPACE</h1>
-            <p class="max-w-md">
+            <p class="max-w-md min-w-0">
               Let’s face it; if you want to go to space, you might as well
               genuinely go to outer space and not hover kind of on the edge of
               it. Well sit back, and relax because we’ll give you a truly out of
